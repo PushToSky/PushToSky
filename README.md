@@ -64,3 +64,5 @@ Point the telescope, for example, at Antares and mark it in the one-star teachin
 Now, in the Tracking tab, you can select an object you like (Deep sky objects/M3), where the system will navigate using the control system. 
 
 Phone sensors are not very accurate, so manual correction may be needed occasionally. 
+
+Download: http://pushtosky.kemence.hu/
