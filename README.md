@@ -65,3 +65,4 @@ Now, in the Tracking tab, you can select an object you like (Deep sky objects/M3
 Phone sensors are not very accurate, so manual correction may be needed occasionally. 
 
 Download: https://pushtosky.kemence.hu/
+Contact: pushtoskyhelp@gmail.com
