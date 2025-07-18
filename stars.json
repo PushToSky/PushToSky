@@ -1,0 +1,745 @@
+{
+  "catalog": "Bright Stars and Constellation Stars",
+  "objects": [
+  {
+    "name": "20 Crt",
+    "right_ascension": "11h 34m 27.7s",
+    "declination": "-32°49′39.0",
+    "magnitude": 6.7
+  },
+    {
+    "name": "Mirach",
+    "right_ascension": "1h 09m 44.1s",
+    "declination": "+35°37′00.7",
+    "magnitude": 6.7
+  },
+    {
+    "name": "Betelgeuse",
+    "right_ascension": "5h 55m 09.17s",
+    "declination": "-7°24′27.2",
+    "magnitude": 6.7
+  },
+  {
+    "name": "61 Vir",
+    "right_ascension": "13h 18m 23.3s",
+    "declination": "-18°19′05.9",
+    "magnitude": 5.07
+  },
+  {
+    "name": "A 691",
+    "right_ascension": "15h 13m 49.5s",
+    "declination": "-1°21′16.1",
+    "magnitude": 6.89
+  },
+  {
+    "name": "Alhaud V",
+    "right_ascension": "9h 32m 47.8s",
+    "declination": "+51°40′42.0",
+    "magnitude": 3.29
+  },
+  {
+    "name": "Alsafi",
+    "right_ascension": "19h 32m 25.0s",
+    "declination": "+69°38′51.3",
+    "magnitude": 4.87
+  },
+  {
+    "name": "Arcturus",
+    "right_ascension": "14h 15m 38.4s",
+    "declination": "+19°10′08.7",
+    "magnitude": 0.33
+  },
+  {
+    "name": "JNN 235",
+    "right_ascension": "8h 18m 23.3s",
+    "declination": "-12°38′21.1",
+    "magnitude": 6.43
+  },
+  {
+    "name": "Groombridge 1830",
+    "right_ascension": "11h 53m 04.4s",
+    "declination": "+37°41′42.0",
+    "magnitude": 6.53
+  },
+  {
+    "name": "LDS 9142",
+    "right_ascension": "3h 04m 10.1s",
+    "declination": "+61°41′45.1",
+    "magnitude": 6.89
+  },
+  {
+    "name": "Marfak",
+    "right_ascension": "1h 08m 28.4s",
+    "declination": "+54°54′43.7",
+    "magnitude": 5.66
+  },
+  {
+    "name": "Nasak Shamiya II",
+    "right_ascension": "15h 56m 28.7s",
+    "declination": "+15°39′24.5",
+    "magnitude": 4.12
+  },
+  {
+    "name": "Procyon",
+    "right_ascension": "7h 39m 15.6s",
+    "declination": "+5°13′05.9",
+    "magnitude": 0.72
+  },
+  {
+    "name": "TNN 18",
+    "right_ascension": "23h 13m 25.0s",
+    "declination": "+57°09′39.8",
+    "magnitude": 6.05
+  },
+  {
+    "name": "w Her",
+    "right_ascension": "17h 20m 40.6s",
+    "declination": "+32°27′43.9",
+    "magnitude": 5.65
+  },
+  {
+    "name": "β Com",
+    "right_ascension": "13h 11m 51.2s",
+    "declination": "+27°53′17.5",
+    "magnitude": 4.35
+  },
+  {
+    "name": "β pm 130",
+    "right_ascension": "10h 11m 17.2s",
+    "declination": "+49°27′14.7",
+    "magnitude": 6.73
+  },
+  {
+    "name": "β pm 139",
+    "right_ascension": "12h 15m 10.4s",
+    "declination": "-10°19′12.4",
+    "magnitude": 6.35
+  },
+  {
+    "name": "βG 4",
+    "right_ascension": "14h 57m 30.6s",
+    "declination": "-21°25′45.7",
+    "magnitude": 6.68
+  },
+  {
+    "name": "ι Per",
+    "right_ascension": "3h 09m 06.2s",
+    "declination": "+49°36′33.2",
+    "magnitude": 4.48
+  },
+
+  {
+    "name": "72 Oph",
+    "right_ascension": "18h 07m 22.2s",
+    "declination": "+9°33′53.2",
+    "magnitude": 3.99
+  },
+  {
+    "name": "109 Vir",
+    "right_ascension": "14h 46m 15.4s",
+    "declination": "+1°53′35.8",
+    "magnitude": 3.89
+  },
+  {
+    "name": "Acrab",
+    "right_ascension": "16h 05m 27.3s",
+    "declination": "-19°48′22.9",
+    "magnitude": 3.04
+  },
+  {
+    "name": "Adhafera",
+    "right_ascension": "10h 16m 40.6s",
+    "declination": "+23°25′10.0",
+    "magnitude": 3.6
+  },
+  {
+    "name": "Al Jabhah",
+    "right_ascension": "10h 07m 19.1s",
+    "declination": "+16°45′51.5",
+    "magnitude": 3.68
+  },
+  {
+    "name": "Alava",
+    "right_ascension": "18h 21m 19.0s",
+    "declination": "-2°54′12.3",
+    "magnitude": 3.72
+  },
+  {
+    "name": "Albireo",
+    "right_ascension": "19h 30m 44.7s",
+    "declination": "+27°57′33.9",
+    "magnitude": 3.66
+  },
+  {
+    "name": "Alderamin",
+    "right_ascension": "21h 18m 37.4s",
+    "declination": "+62°34′54.9",
+    "magnitude": 2.69
+  },
+  {
+    "name": "Aldhibah",
+    "right_ascension": "17h 08m 50.1s",
+    "declination": "+65°43′00.7",
+    "magnitude": 3.3
+  },
+  {
+    "name": "Alfirk",
+    "right_ascension": "21h 28m 42.6s",
+    "declination": "+70°33′26.1",
+    "magnitude": 3.41
+  },
+  {
+    "name": "Algieba",
+    "right_ascension": "10h 19m 58.1s",
+    "declination": "+19°50′30.7",
+    "magnitude": 2.41
+  },
+  {
+    "name": "Algorab",
+    "right_ascension": "12h 29m 51.6s",
+    "declination": "-16°31′02.4",
+    "magnitude": 3.23
+  },
+  {
+    "name": "Alhaud IV",
+    "right_ascension": "9h 31m 29.8s",
+    "declination": "+63°03′53.6",
+    "magnitude": 3.82
+  },
+  {
+    "name": "Alhaud V",
+    "right_ascension": "9h 32m 47.9s",
+    "declination": "+51°40′42.5",
+    "magnitude": 3.33
+  },
+  {
+    "name": "Alhaud VI",
+    "right_ascension": "9h 50m 56.8s",
+    "declination": "+59°02′31.2",
+    "magnitude": 3.91
+  },
+  {
+    "name": "Alioth",
+    "right_ascension": "12h 54m 02.3s",
+    "declination": "+55°57′53.6",
+    "magnitude": 1.88
+  },
+  {
+    "name": "Aljanah",
+    "right_ascension": "20h 46m 14.8s",
+    "declination": "+33°58′16.9",
+    "magnitude": 2.88
+  },
+  {
+    "name": "Almaaz",
+    "right_ascension": "5h 01m 56.4s",
+    "declination": "+43°49′19.2",
+    "magnitude": 3.75
+  },
+  {
+    "name": "Alniyat",
+    "right_ascension": "16h 21m 12.5s",
+    "declination": "-25°35′38.2",
+    "magnitude": 3.74
+  },
+  {
+    "name": "Alphard",
+    "right_ascension": "9h 27m 34.2s",
+    "declination": "-8°39′30.6",
+    "magnitude": 2.85
+  },
+  {
+    "name": "Altair",
+    "right_ascension": "19h 50m 49.2s",
+    "declination": "+8°52′16.4",
+    "magnitude": 1.61
+  },
+  {
+    "name": "Altais",
+    "right_ascension": "19h 12m 37.3s",
+    "declination": "+67°39′41.0",
+    "magnitude": 3.23
+  },
+  {
+    "name": "Alula Borealis",
+    "right_ascension": "11h 18m 28.1s",
+    "declination": "+33°05′51.7",
+    "magnitude": 3.61
+  },
+  {
+    "name": "Antares",
+    "right_ascension": "16h 29m 25.7s",
+    "declination": "-26°25′59.3",
+    "magnitude": 1.85
+  },
+  {
+    "name": "Athebyne",
+    "right_ascension": "16h 24m 01.7s",
+    "declination": "+61°31′02.4",
+    "magnitude": 2.84
+  },
+  {
+    "name": "Brachium",
+    "right_ascension": "15h 04m 05.0s",
+    "declination": "-25°17′01.8",
+    "magnitude": 3.72
+  },
+  {
+    "name": "Capella",
+    "right_ascension": "5h 16m 39.9s",
+    "declination": "+45°59′37.4",
+    "magnitude": 0.62
+  },
+  {
+    "name": "Caph",
+    "right_ascension": "0h 09m 11.6s",
+    "declination": "+59°08′59.5",
+    "magnitude": 2.64
+  },
+  {
+    "name": "Castor",
+    "right_ascension": "7h 34m 34.0s",
+    "declination": "+31°53′16.7",
+    "magnitude": 2.3
+  },
+  {
+    "name": "Chow",
+    "right_ascension": "15h 46m 12.4s",
+    "declination": "+15°25′22.5",
+    "magnitude": 3.82
+  },
+  {
+    "name": "Cor Caroli",
+    "right_ascension": "12h 56m 01.5s",
+    "declination": "+38°19′21.3",
+    "magnitude": 2.98
+  },
+  {
+    "name": "Deneb",
+    "right_ascension": "20h 41m 27.6s",
+    "declination": "+45°16′43.1",
+    "magnitude": 1.54
+  },
+  {
+    "name": "Denebola",
+    "right_ascension": "11h 49m 02.4s",
+    "declination": "+14°34′22.6",
+    "magnitude": 2.28
+  },
+  {
+    "name": "Dschubba",
+    "right_ascension": "16h 00m 21.1s",
+    "declination": "-22°37′23.0",
+    "magnitude": 2.85
+  },
+  {
+    "name": "Dubhe",
+    "right_ascension": "11h 03m 42.2s",
+    "declination": "+61°45′24.0",
+    "magnitude": 2.15
+  },
+  {
+    "name": "Edasich",
+    "right_ascension": "15h 24m 57.4s",
+    "declination": "+58°58′11.7",
+    "magnitude": 3.39
+  },
+  {
+    "name": "Eltanin",
+    "right_ascension": "17h 56m 38.5s",
+    "declination": "+51°29′23.4",
+    "magnitude": 2.36
+  },
+  {
+    "name": "Errai",
+    "right_ascension": "23h 39m 23.5s",
+    "declination": "+77°37′39.8",
+    "magnitude": 3.42
+  },
+  {
+    "name": "Fang",
+    "right_ascension": "15h 58m 52.2s",
+    "declination": "-26°06′55.7",
+    "magnitude": 3.47
+  },
+  {
+    "name": "Fawaris III",
+    "right_ascension": "21h 12m 57.4s",
+    "declination": "+30°13′30.5",
+    "magnitude": 3.86
+  },
+  {
+    "name": "Gienah",
+    "right_ascension": "12h 15m 48.0s",
+    "declination": "-17°32′35.3",
+    "magnitude": 2.91
+  },
+  {
+    "name": "Grumium",
+    "right_ascension": "17h 53m 34.4s",
+    "declination": "+56°52′27.8",
+    "magnitude": 3.86
+  },
+  {
+    "name": "Heze",
+    "right_ascension": "13h 34m 41.5s",
+    "declination": "-0°35′43.9",
+    "magnitude": 3.55
+  },
+  {
+    "name": "Izar",
+    "right_ascension": "14h 44m 59.9s",
+    "declination": "+27°04′36.7",
+    "magnitude": 2.64
+  },
+  {
+    "name": "Kabalfird",
+    "right_ascension": "20h 45m 21.9s",
+    "declination": "+61°50′26.1",
+    "magnitude": 3.62
+  },
+  {
+    "name": "Kochab",
+    "right_ascension": "14h 50m 44.9s",
+    "declination": "+74°09′36.0",
+    "magnitude": 2.2
+  },
+  {
+    "name": "Kornephoros",
+    "right_ascension": "16h 30m 14.3s",
+    "declination": "+21°29′27.6",
+    "magnitude": 2.92
+  },
+  {
+    "name": "Mahasim",
+    "right_ascension": "5h 59m 41.7s",
+    "declination": "+37°12′42.8",
+    "magnitude": 3.37
+  },
+  {
+    "name": "Megrez",
+    "right_ascension": "12h 15m 25.5s",
+    "declination": "+57°02′16.3",
+    "magnitude": 3.44
+  },
+  {
+    "name": "Menkalinan",
+    "right_ascension": "5h 59m 29.7s",
+    "declination": "+44°56′49.3",
+    "magnitude": 2.36
+  },
+  {
+    "name": "Menkent",
+    "right_ascension": "14h 06m 40.3s",
+    "declination": "-36°22′33.0",
+    "magnitude": 3.15
+  },
+  {
+    "name": "Minelauva",
+    "right_ascension": "12h 55m 35.5s",
+    "declination": "+3°23′53.3",
+    "magnitude": 3.54
+  },
+  {
+    "name": "Mirfak",
+    "right_ascension": "3h 24m 18.1s",
+    "declination": "+49°51′28.9",
+    "magnitude": 2.55
+  },
+  {
+    "name": "Mizar",
+    "right_ascension": "13h 23m 56.4s",
+    "declination": "+54°55′48.5",
+    "magnitude": 2.33
+  },
+  {
+    "name": "Muphrid",
+    "right_ascension": "13h 54m 41.5s",
+    "declination": "+18°23′52.4",
+    "magnitude": 2.8
+  },
+  {
+    "name": "Muscida",
+    "right_ascension": "8h 30m 13.0s",
+    "declination": "+60°43′14.9",
+    "magnitude": 3.54
+  },
+  {
+    "name": "Nasak Shamiya III",
+    "right_ascension": "16h 21m 56.3s",
+    "declination": "+19°09′17.2",
+    "magnitude": 3.87
+  },
+  {
+    "name": "Navi",
+    "right_ascension": "0h 56m 42.4s",
+    "declination": "+60°42′44.2",
+    "magnitude": 2.55
+  },
+  {
+    "name": "Nusakan",
+    "right_ascension": "15h 27m 50.4s",
+    "declination": "+29°06′31.6",
+    "magnitude": 3.79
+  },
+  {
+    "name": "Okab",
+    "right_ascension": "19h 05m 26.0s",
+    "declination": "+13°51′46.9",
+    "magnitude": 3.34
+  },
+  {
+    "name": "Paikauhale",
+    "right_ascension": "16h 35m 54.2s",
+    "declination": "-28°13′01.8",
+    "magnitude": 3.83
+  },
+  {
+    "name": "Phecda",
+    "right_ascension": "11h 53m 49.7s",
+    "declination": "+53°41′58.3",
+    "magnitude": 2.54
+  },
+  {
+    "name": "Pollux",
+    "right_ascension": "7h 45m 16.3s",
+    "declination": "+28°01′34.0",
+    "magnitude": 1.57
+  },
+  {
+    "name": "Porrima",
+    "right_ascension": "12h 41m 38.9s",
+    "declination": "-1°26′56.7",
+    "magnitude": 3.61
+  },
+  {
+    "name": "Rasalgethy",
+    "right_ascension": "17h 14m 40.1s",
+    "declination": "+14°23′29.4",
+    "magnitude": 3.56
+  },
+  {
+    "name": "Rasalhague",
+    "right_ascension": "17h 34m 57.6s",
+    "declination": "+12°33′33.0",
+    "magnitude": 2.28
+  },
+  {
+    "name": "Rastaban",
+    "right_ascension": "17h 30m 28.0s",
+    "declination": "+52°18′10.8",
+    "magnitude": 2.91
+  },
+  {
+    "name": "Regulus",
+    "right_ascension": "10h 08m 21.0s",
+    "declination": "+11°58′08.1",
+    "magnitude": 1.61
+  },
+  {
+    "name": "Ruchbah",
+    "right_ascension": "1h 25m 48.8s",
+    "declination": "+60°13′58.1",
+    "magnitude": 3.07
+  },
+  {
+    "name": "Rutilicus",
+    "right_ascension": "16h 41m 18.0s",
+    "declination": "+31°36′25.1",
+    "magnitude": 3.01
+  },
+  {
+    "name": "Sabik",
+    "right_ascension": "17h 10m 24.0s",
+    "declination": "-15°43′28.6",
+    "magnitude": 2.98
+  },
+  {
+    "name": "Sadr",
+    "right_ascension": "20h 22m 15.3s",
+    "declination": "+40°15′19.5",
+    "magnitude": 2.5
+  },
+  {
+    "name": "Sarin",
+    "right_ascension": "17h 15m 03.2s",
+    "declination": "+24°50′21.1",
+    "magnitude": 3.28
+  },
+  {
+    "name": "Sarkcsillag",
+    "right_ascension": "2h 31m 03.3s",
+    "declination": "+89°15′33.9",
+    "magnitude": 2.13
+  },
+  {
+    "name": "Seginus",
+    "right_ascension": "14h 32m 05.3s",
+    "declination": "+38°18′44.2",
+    "magnitude": 3.13
+  },
+  {
+    "name": "Shedar",
+    "right_ascension": "0h 40m 30.6s",
+    "declination": "+56°31′58.4",
+    "magnitude": 2.68
+  },
+  {
+    "name": "Sheliak",
+    "right_ascension": "18h 50m 06.4s",
+    "declination": "+33°21′46.2",
+    "magnitude": 3.72
+  },
+  {
+    "name": "Spica",
+    "right_ascension": "13h 25m 11.8s",
+    "declination": "-11°09′44.1",
+    "magnitude": 1.2
+  },
+  {
+    "name": "Subra",
+    "right_ascension": "9h 41m 07.8s",
+    "declination": "+9°53′35.6",
+    "magnitude": 3.82
+  },
+  {
+    "name": "Sulafat",
+    "right_ascension": "18h 58m 58.2s",
+    "declination": "+32°41′22.7",
+    "magnitude": 3.49
+  },
+  {
+    "name": "Talitha",
+    "right_ascension": "8h 59m 10.1s",
+    "declination": "+48°02′36.2",
+    "magnitude": 3.3
+  },
+  {
+    "name": "Tarazed",
+    "right_ascension": "19h 46m 16.9s",
+    "declination": "+10°36′48.1",
+    "magnitude": 3.41
+  },
+  {
+    "name": "Thiba",
+    "right_ascension": "15h 15m 31.3s",
+    "declination": "+33°19′00.3",
+    "magnitude": 3.59
+  },
+  {
+    "name": "Thuban",
+    "right_ascension": "14h 04m 24.3s",
+    "declination": "+64°22′49.4",
+    "magnitude": 3.79
+  },
+  {
+    "name": "Unukalhai",
+    "right_ascension": "15h 44m 17.2s",
+    "declination": "+6°25′36.1",
+    "magnitude": 2.79
+  },
+  {
+    "name": "Vega",
+    "right_ascension": "18h 36m 58.3s",
+    "declination": "+38°47′11.3",
+    "magnitude": 0.2
+  },
+  {
+    "name": "Vindemiatrix",
+    "right_ascension": "13h 02m 10.2s",
+    "declination": "+10°57′39.4",
+    "magnitude": 3.02
+  },
+  {
+    "name": "Yed Posterior",
+    "right_ascension": "16h 18m 20.5s",
+    "declination": "-4°41′31.8",
+    "magnitude": 3.46
+  },
+  {
+    "name": "Yed Prior",
+    "right_ascension": "16h 14m 21.8s",
+    "declination": "-3°41′41.3",
+    "magnitude": 2.95
+  },
+  {
+    "name": "Zavijava",
+    "right_ascension": "11h 50m 42.7s",
+    "declination": "+1°45′48.0",
+    "magnitude": 3.77
+  },
+  {
+    "name": "Zosma",
+    "right_ascension": "11h 14m 06.2s",
+    "declination": "+20°31′31.4",
+    "magnitude": 2.73
+  },
+  {
+    "name": "Zubenelgenubi II",
+    "right_ascension": "14h 50m 53.3s",
+    "declination": "-16°02′35.4",
+    "magnitude": 3.05
+  },
+  {
+    "name": "Zubeneshamali",
+    "right_ascension": "15h 17m 01.1s",
+    "declination": "-9°23′00.0",
+    "magnitude": 2.85
+  },
+  {
+    "name": "α Lyn",
+    "right_ascension": "9h 21m 01.6s",
+    "declination": "+34°23′42.5",
+    "magnitude": 3.31
+  },
+  {
+    "name": "γ Hya",
+    "right_ascension": "13h 18m 55.7s",
+    "declination": "-23°10′24.4",
+    "magnitude": 3.35
+  },
+  {
+    "name": "γ Per",
+    "right_ascension": "3h 04m 46.5s",
+    "declination": "+53°30′10.9",
+    "magnitude": 3.52
+  },
+  {
+    "name": "η Her",
+    "right_ascension": "16h 42m 55.3s",
+    "declination": "+38°55′25.1",
+    "magnitude": 3.6
+  },
+  {
+    "name": "ι Cep",
+    "right_ascension": "22h 49m 41.7s",
+    "declination": "+66°11′46.3",
+    "magnitude": 3.76
+  },
+  {
+    "name": "ι Her",
+    "right_ascension": "17h 39m 29.7s",
+    "declination": "+46°00′27.6",
+    "magnitude": 3.96
+  },
+  {
+    "name": "μ Her",
+    "right_ascension": "17h 46m 28.1s",
+    "declination": "+27°42′56.3",
+    "magnitude": 3.59
+  },
+  {
+    "name": "μ Ser",
+    "right_ascension": "15h 49m 38.1s",
+    "declination": "-3°25′48.5",
+    "magnitude": 3.73
+  },
+  {
+    "name": "ρ Boo",
+    "right_ascension": "14h 31m 50.3s",
+    "declination": "+30°22′30.3",
+    "magnitude": 3.69
+  }
+]
+
+}

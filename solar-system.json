@@ -1,0 +1,59 @@
+{
+  "catalog": "Solar System Objects",
+  "objects": [
+    {
+      "name": "Mercury",
+      "celestial_object_classification": "Planet",
+      "magnitude": -1.9,
+      "approximate_distance_au": 0.39
+    },
+    {
+      "name": "Venus",
+      "celestial_object_classification": "Planet",
+      "magnitude": -4.6,
+      "approximate_distance_au": 0.72
+    },
+    {
+      "name": "Mars",
+      "celestial_object_classification": "Planet",
+      "magnitude": -2.9,
+      "approximate_distance_au": 1.52
+    },
+    {
+      "name": "Jupiter",
+      "celestial_object_classification": "Planet",
+      "magnitude": -2.9,
+      "approximate_distance_au": 5.2
+    },
+    {
+      "name": "Saturn",
+      "celestial_object_classification": "Planet",
+      "magnitude": 0.7,
+      "approximate_distance_au": 9.5
+    },
+    {
+      "name": "Uranus",
+      "celestial_object_classification": "Planet",
+      "magnitude": 5.7,
+      "approximate_distance_au": 19.8
+    },
+    {
+      "name": "Neptune",
+      "celestial_object_classification": "Planet",
+      "magnitude": 7.8,
+      "approximate_distance_au": 30.1
+    },
+    {
+      "name": "Moon",
+      "celestial_object_classification": "Natural Satellite",
+      "magnitude": 12.7,
+      "approximate_distance_au": null
+    },
+    {
+      "name": "Sun",
+      "celestial_object_classification": "Star",
+      "magnitude": 26.74,
+      "approximate_distance_au": 1.0
+    }
+  ]
+}
