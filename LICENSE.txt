@@ -1,0 +1,29 @@
+PushToSky - Freeware License Agreement
+--------------------------------------
+
+English version:
+
+This software ("PushToSky") is provided free of charge for personal and non-commercial use only. By using this software, you agree to the following terms:
+
+1. You may install and use this software on any number of personal devices.
+2. You may not reverse engineer, decompile, or disassemble the software.
+3. You may not modify, redistribute, or sell the software in any form.
+4. The software is provided "as is", without warranty of any kind. The author is not responsible for any damage resulting from the use of this software.
+5. All rights to this software are reserved by the author.
+
+By using this software, you accept the above terms.
+
+--------------------------------------
+
+Magyar verzió:
+
+Ez a szoftver („PushToSky”) ingyenesen használható, kizárólag személyes és nem kereskedelmi célra. A szoftver használatával Ön elfogadja az alábbi feltételeket:
+
+1. A szoftver tetszőleges számú személyes eszközre telepíthető és használható.
+2. A szoftver visszafejtése, visszafordítása vagy szétszerelése nem engedélyezett.
+3. A szoftver módosítása, továbbadása vagy értékesítése bármilyen formában tilos.
+4. A szoftvert „ahogy van” alapon biztosítjuk, mindenféle garancia nélkül. A szerző nem vállal felelősséget a használatból eredő károkért.
+5. A szoftver minden joga a szerzőt illeti meg.
+
+A szoftver használatával Ön elfogadja a fenti feltételeket.
+
