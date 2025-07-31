@@ -86,15 +86,15 @@ Telepítőkészlet:
 
 Telefon:
 
-    TelescopeMotionSender for Push_to_Sky.apk (A távcső irányadatainak küldése a Push_to_Sky rendszer felé)
+-TelescopeMotionSender for Push_to_Sky.apk (A távcső irányadatainak küldése a Push_to_Sky rendszer felé)
 
-    GPS Sender for Push_to_Sky.apk (GPS-adatok küldése a Push_to_Sky rendszer felé)
+-GPS Sender for Push_to_Sky.apk (GPS-adatok küldése a Push_to_Sky rendszer felé)
 
 Laptop/Asztali gép:
 
-    Push_to_Sky alkalmazás
+-Push_to_Sky alkalmazás
 
-    config.ini fájl
+-config.ini fájl
 
 🛠️ Így használd:
 
