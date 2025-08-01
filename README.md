@@ -116,5 +116,4 @@ Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot 
 
 A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
 
-Download: https://pushtosky.kemence.hu/
 Contact: pushtoskyhelp@gmail.com
