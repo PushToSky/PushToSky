@@ -96,7 +96,7 @@ Laptop/Asztali gép:
 
 -config.ini fájl
 
-🛠️ Így használd:
+Így használd:
 
     Rögzítsd a telefont a távcsőre.
 
@@ -114,7 +114,7 @@ Laptop/Asztali gép:
 
     Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot (pl. Deep Sky objektum/M3), és a rendszer a vezérlőrendszer segítségével odanavigál.
 
-📌 A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
+A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
 
 Download: https://pushtosky.kemence.hu/
 Contact: pushtoskyhelp@gmail.com
