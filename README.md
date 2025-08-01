@@ -116,4 +116,101 @@ Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot 
 
 A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
 
+##################################################################################
+
+
+Explanation:
+
+*Settings
+
+** Azimuth Correction by Elevation:
+A common error with phone sensors is that the azimuth value drifts when measuring elevation from 0 to 90 degrees. This function is designed to correct that drift between 0–180 and 180–360 degrees.
+
+** Direction Indicator Sensitivity (Degrees):
+The sensitivity of the direction indicator system located under the “Tracking” tab can be adjusted between 0.3–1 degrees.
+
+** Orientation Data (UDP):
+Orientation data received from the phone's sensors (in degrees).
+
+
+*Tracking
+
+** Target Selection:
+Contains a search field and a list of celestial objects from which you can select the object you wish to observe (Bright Stars, Deep Sky Objects, Solar System).
+
+** Calculated Celestial Body Position:
+The position of the celestial object selected in the “Target Selection” section.
+
+** Direction Indicator:
+Here you can choose whether to use raw or filtered (Kalman filter) data. The latter can assist during telescope movement. Arrows assist in moving the telescope, and a green dot indicates target acquisition.
+
+** Multi-point Alignment:
+You can mark multiple objects for calibration purposes from the “Target Selection” section. Point the telescope at a selected object, then mark it with the “Mark for Calibration” button. Repeat as desired with additional objects. After marking 1, 2, 3, or even 4 objects, click the “Perform Calibration” button.
+During the day, the PushToSky system can even be calibrated using a single mark on the Moon.
+
+** Current Position and Offset:
+Indicates the current direction of the telescope and provides the option for manual correction and offsetting.
+
+** Virtual Sky:
+After pressing the button, a virtual sky view opens up, which can help with orientation in the night sky.
+
+*One-Star Alignment
+
+Point the telescope at a star, for example, Polaris. Select Polaris from the list, then press the “Current Position and Offset” button. After this, under the “Tracking” tab in the “Target Selection” section, you can choose a target object.
+
+
+################################################################################
+
+
+
+Magyarázat:
+
+* Beállítások
+
+** Azimut Korrekció Emelkedésfüggően (Fok):
+
+A telefonszenzoroknál gyakori hiba, hogy magasságmérésnél 0-ról 90 fokig az Azimute érték is elcsúszik. Ez a funkció ezt hivatott korrigálni 0 - 180 illetve 180 - 360 fok között.
+
+** Irányító Rendszer Érzékenysége (Fok):
+
+A „Követés” fülön elhelyezkedő irányjelző rendszer érzékenysége állítható 0,3 -1  fok között.
+
+** Orientációs Adatok (UDP)
+
+A telefonszenzoról érkező orientációs adatok (Fok).
+
+
+* Követés
+
+** Célpont Kiválasztása:
+
+Tartalmaz egy keresőmezőt és egy égitest listát ahonnan kiválaszthatjuk a megfigyelni kívánt objektumot (Fényes Csillagok, Mélyég Objektumok, Naprendszer).
+
+** Számított Égitest Pozíció:
+
+A  „Célpont Kiválasztása” szekcióban kiválasztott égitest pozíciója. 
+
+
+** Irányjelző: 
+
+Itt választható, hogy nyers vagy szűrt (Kalman szűrő) adatokat használjunk. Utóbbi teleszkóp mozgatása közben lehet a segítségünkre.
+A teleszkóp mozgatását nyilak segítik, célra találás egy zöld pötty jelöli.
+
+** Többpontos Tanítás:
+
+A „Célpont Kiválasztása” szekcióból több objektumot is megjelölhetünk tanítás céljából. Irányítsuk a teleszkópot egy kiválasztott objektumra, majd jelöljük meg a „Megjelölés Kalibrációhoz” gombbal majd ismételjük meg tetszőleges számban további objektumokkal. 1,2,3 vagy akár 4 objektum jelölése után kattintsunk a „Kalibráció Végrehajtása” gombra.
+Nappal akár a Hold egyszeri megjelölésével is tanítható a PushToSky rendszer.
+
+** Jelenlegi Pozíció és Eltolás:
+
+Jelöli a teleszkóp aktuális irányát és lehetőséget ad kézi korrigálásra, eltolásra.
+
+** Virtuális Égbolt
+
+A gomb megnyomását követően egy virtuális égbolt nyílik meg amely segíthet az égbolton való tájékozódásban.
+
+* Egycsillagos tanítás (Alignment)
+
+Irányítsuk a teleszkópot például a sarkcsillagra. A listából jelöljük meg a sarkcsillagot majd nyomjuk meg a „Jelölés és Korrekció” gombot. Ez után már a „Követés” fülön már a „Célpont Kiválasztása” szekcióban választhatunk célpont objektumot.
+
 Contact: pushtoskyhelp@gmail.com
