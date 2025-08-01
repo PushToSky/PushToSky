@@ -98,21 +98,21 @@ Laptop/Asztali gép:
 
 Így használd:
 
-    Rögzítsd a telefont a távcsőre.
+Rögzítsd a telefont a távcsőre.
 
-    Telepítsd a telefonra a TelescopeMotionSender for Push_to_Sky.apk és a GPS Sender for Push_to_Sky.apk alkalmazásokat.
+Telepítsd a telefonra a TelescopeMotionSender for Push_to_Sky.apk és a GPS Sender for Push_to_Sky.apk alkalmazásokat.
 
-    Helyezd a Push_to_Sky és a config.ini fájlokat ugyanabba a mappába a számítógépen.
+Helyezd a Push_to_Sky és a config.ini fájlokat ugyanabba a mappába a számítógépen.
 
-    Indítsd el a Push_to_Sky alkalmazást, majd indítsd el a telefonon a GPS Sender for Push_to_Sky.apk alkalmazást. Ez továbbítja a pontos helyzetedet a rendszernek (Ne felejtsd el megadni a számítógép pontos IP-címét).
+Indítsd el a Push_to_Sky alkalmazást, majd indítsd el a telefonon a GPS Sender for Push_to_Sky.apk alkalmazást. Ez továbbítja a pontos helyzetedet a rendszernek (Ne felejtsd el megadni a számítógép pontos IP-címét).
 
-    Indítsd újra a Push_to_Sky alkalmazást.
+Indítsd újra a Push_to_Sky alkalmazást.
 
-    Ezután indítsd el a TelescopeMotionSender for Push_to_Sky.apk alkalmazást a telefonon (Ismét add meg a számítógép pontos IP-címét).
+Ezután indítsd el a TelescopeMotionSender for Push_to_Sky.apk alkalmazást a telefonon (Ismét add meg a számítógép pontos IP-címét).
 
-    Irányítsd a távcsövet például az Antares csillagra, és jelöld be az egycsillagos tanításban.
+Irányítsd a távcsövet például az Antares csillagra, és jelöld be az egycsillagos tanításban.
 
-    Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot (pl. Deep Sky objektum/M3), és a rendszer a vezérlőrendszer segítségével odanavigál.
+Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot (pl. Deep Sky objektum/M3), és a rendszer a vezérlőrendszer segítségével odanavigál.
 
 A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
 
