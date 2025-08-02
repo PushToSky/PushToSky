@@ -1,4 +1,4 @@
-# PushToSky
+# PushToSky - En
 
 Phone-based Astronomical Telescope Control, Simply 
 
@@ -18,7 +18,7 @@ Connect to the world of stars – look up at the sky and control smartly!
 
 🌐 Client-server connection Phone data is sent to the PC via Wi-Fi, where the system displays the current direction, suggests movements, and allows orientation using a virtual sky. 
 
-User Manual 
+## User Manual 
 
 Installation Kit: 
 
@@ -54,72 +54,8 @@ Now, in the Tracking tab, you can select an object you like (Deep sky objects/M3
 
 Phone sensors are not very accurate, so manual correction may be needed occasionally. 
 
-##########################################################################################################################################
-# PushToSky
 
-Telefonalapú Csillagászati Teleszkóp Irányítás, Egyszerűen.
-
-Push to Sky egy alacsony költségű vezérlőrendszer csillagászati távcsövekhez, amely mobiltelefon szenzorait használja.
-
-Kapcsolódj a csillagok világához – nézz fel az égre, és irányíts okosan!
-
-🌟 Főbb jellemzők
-
-📱 Telefonalapú kézi vezérlés
-A távcső aktuális iránya valós időben meghatározható és követhető a mobiltelefon szenzorai (giroszkóp, gyorsulásmérő, iránytű) segítségével.
-
-🎯 Alt-azimutális távcsövekkel kompatibilis
-Kifejezetten az alt-azimutális mechanikai rendszerekhez tervezve, így könnyen használható Dobson-rendszerű, refraktoros vagy kezdő, motor nélküli távcsövekkel.
-
-🛰️ Szenzoradat-feldolgozás Kalman-szűrővel
-A rendszer kiszűri és kisimítja a mobiltelefon zajos szenzoradatait, megbízhatóbb iránymeghatározást biztosítva a távcső számára.
-
-✨ Csillagkalibráció és korrekció
-Egycsillagos vagy többpontos tanítással a rendszer képes korrigálni a szenzorhibákat – így még pontosabb célzást tesz lehetővé.
-
-🌐 Kliens-szerver kapcsolat
-A telefon adatai Wi-Fi-n keresztül jutnak el a számítógéphez, ahol a rendszer megjeleníti az aktuális irányt, mozgásokat javasol, és egy virtuális égbolton segíti a tájékozódást.
-
-📘 Használati útmutató
-
-Telepítőkészlet:
-
-Telefon:
-
--TelescopeMotionSender for Push_to_Sky.apk (A távcső irányadatainak küldése a Push_to_Sky rendszer felé)
-
--GPS Sender for Push_to_Sky.apk (GPS-adatok küldése a Push_to_Sky rendszer felé)
-
-Laptop/Asztali gép:
-
--Push_to_Sky alkalmazás
-
--config.ini fájl
-
-Így használd:
-
-Rögzítsd a telefont a távcsőre.
-
-Telepítsd a telefonra a TelescopeMotionSender for Push_to_Sky.apk és a GPS Sender for Push_to_Sky.apk alkalmazásokat.
-
-Helyezd a Push_to_Sky és a config.ini fájlokat ugyanabba a mappába a számítógépen.
-
-Indítsd el a Push_to_Sky alkalmazást, majd indítsd el a telefonon a GPS Sender for Push_to_Sky.apk alkalmazást. Ez továbbítja a pontos helyzetedet a rendszernek (Ne felejtsd el megadni a számítógép pontos IP-címét).
-
-Indítsd újra a Push_to_Sky alkalmazást.
-
-Ezután indítsd el a TelescopeMotionSender for Push_to_Sky.apk alkalmazást a telefonon (Ismét add meg a számítógép pontos IP-címét).
-
-Irányítsd a távcsövet például az Antares csillagra, és jelöld be az egycsillagos tanításban.
-
-Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot (pl. Deep Sky objektum/M3), és a rendszer a vezérlőrendszer segítségével odanavigál.
-
-A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
-
-##################################################################################
-
-
-Explanation:
+## Explanation:
 
 *Settings
 
@@ -159,11 +95,73 @@ After pressing the button, a virtual sky view opens up, which can help with orie
 Point the telescope at a star, for example, Polaris. Select Polaris from the list, then press the “Current Position and Offset” button. After this, under the “Tracking” tab in the “Target Selection” section, you can choose a target object.
 
 
-################################################################################
 
 
 
-Magyarázat:
+
+# PushToSky - Hu
+
+Telefonalapú Csillagászati Teleszkóp Irányítás, Egyszerűen.
+
+Push to Sky egy alacsony költségű vezérlőrendszer csillagászati távcsövekhez, amely mobiltelefon szenzorait használja.
+
+Kapcsolódj a csillagok világához – nézz fel az égre, és irányíts okosan!
+
+🌟 Főbb jellemzők
+
+📱 Telefonalapú kézi vezérlés
+A távcső aktuális iránya valós időben meghatározható és követhető a mobiltelefon szenzorai (giroszkóp, gyorsulásmérő, iránytű) segítségével.
+
+🎯 Alt-azimutális távcsövekkel kompatibilis
+Kifejezetten az alt-azimutális mechanikai rendszerekhez tervezve, így könnyen használható Dobson-rendszerű, refraktoros vagy kezdő, motor nélküli távcsövekkel.
+
+🛰️ Szenzoradat-feldolgozás Kalman-szűrővel
+A rendszer kiszűri és kisimítja a mobiltelefon zajos szenzoradatait, megbízhatóbb iránymeghatározást biztosítva a távcső számára.
+
+✨ Csillagkalibráció és korrekció
+Egycsillagos vagy többpontos tanítással a rendszer képes korrigálni a szenzorhibákat – így még pontosabb célzást tesz lehetővé.
+
+🌐 Kliens-szerver kapcsolat
+A telefon adatai Wi-Fi-n keresztül jutnak el a számítógéphez, ahol a rendszer megjeleníti az aktuális irányt, mozgásokat javasol, és egy virtuális égbolton segíti a tájékozódást.
+
+## Használati útmutató
+
+Telepítőkészlet:
+
+Telefon:
+
+-TelescopeMotionSender for Push_to_Sky.apk (A távcső irányadatainak küldése a Push_to_Sky rendszer felé)
+
+-GPS Sender for Push_to_Sky.apk (GPS-adatok küldése a Push_to_Sky rendszer felé)
+
+Laptop/Asztali gép:
+
+-Push_to_Sky alkalmazás
+
+-config.ini fájl
+
+Így használd:
+
+Rögzítsd a telefont a távcsőre.
+
+Telepítsd a telefonra a TelescopeMotionSender for Push_to_Sky.apk és a GPS Sender for Push_to_Sky.apk alkalmazásokat.
+
+Helyezd a Push_to_Sky és a config.ini fájlokat ugyanabba a mappába a számítógépen.
+
+Indítsd el a Push_to_Sky alkalmazást, majd indítsd el a telefonon a GPS Sender for Push_to_Sky.apk alkalmazást. Ez továbbítja a pontos helyzetedet a rendszernek (Ne felejtsd el megadni a számítógép pontos IP-címét).
+
+Indítsd újra a Push_to_Sky alkalmazást.
+
+Ezután indítsd el a TelescopeMotionSender for Push_to_Sky.apk alkalmazást a telefonon (Ismét add meg a számítógép pontos IP-címét).
+
+Irányítsd a távcsövet például az Antares csillagra, és jelöld be az egycsillagos tanításban.
+
+Most a Tracking (Követés) fülön kiválaszthatsz egy tetszőleges objektumot (pl. Deep Sky objektum/M3), és a rendszer a vezérlőrendszer segítségével odanavigál.
+
+A telefon szenzorai nem túl pontosak, így időnként kézi korrekcióra szükség lehet.
+
+
+## Magyarázat:
 
 * Beállítások
 
