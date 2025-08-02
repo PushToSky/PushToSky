@@ -209,6 +209,6 @@ A gomb megnyomását követően egy virtuális égbolt nyílik meg amely segíth
 
 * Egycsillagos tanítás (Alignment)
 
-Irányítsuk a teleszkópot például a sarkcsillagra. A listából jelöljük meg a sarkcsillagot majd nyomjuk meg a „Jelölés és Korrekció” gombot. Ez után már a „Követés” fülön már a „Célpont Kiválasztása” szekcióban választhatunk célpont objektumot.
+Irányítsuk a teleszkópot például a sarkcsillagra. A listából jelöljük meg a sarkcsillagot majd nyomjuk meg a „Jelölés és Korrekció” gombot. Ez után a „Követés” fülön a „Célpont Kiválasztása” szekcióban választhatunk célpont objektumot.
 
 Contact: pushtoskyhelp@gmail.com
