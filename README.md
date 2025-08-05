@@ -18,6 +18,11 @@ Connect to the world of stars – look up at the sky and control smartly!
 
 🌐 Client-server connection Phone data is sent to the PC via Wi-Fi, where the system displays the current direction, suggests movements, and allows orientation using a virtual sky. 
 
+https://github.com/dnlco/PushToSky/wiki
+
+Contact: pushtoskyhelp@gmail.com
+
+
 
 # PushToSky - Hu
 
@@ -44,6 +49,6 @@ Egycsillagos vagy többpontos tanítással a rendszer képes korrigálni a szenz
 🌐 Kliens-szerver kapcsolat
 A telefon adatai Wi-Fi-n keresztül jutnak el a számítógéphez, ahol a rendszer megjeleníti az aktuális irányt, mozgásokat javasol, és egy virtuális égbolton segíti a tájékozódást.
 
+https://github.com/dnlco/PushToSky/wiki
 
-
-Contact: pushtoskyhelp@gmail.com
+Kontakt: pushtoskyhelp@gmail.com
