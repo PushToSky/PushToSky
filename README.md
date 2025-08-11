@@ -20,7 +20,7 @@ Connect to the world of stars – look up at the sky and control smartly!
 
 https://github.com/dnlco/PushToSky/wiki
 
-Contact: pushtoskyhelp@gmail.com
+Contact: info@pushtosky.com
 
 
 
@@ -51,4 +51,4 @@ A telefon adatai Wi-Fi-n keresztül jutnak el a számítógéphez, ahol a rendsz
 
 https://github.com/dnlco/PushToSky/wiki
 
-Kontakt: pushtoskyhelp@gmail.com
+Kontakt: info@pushtosky.com
