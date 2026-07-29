@@ -14,7 +14,7 @@ Connect to the world of stars – look up at the sky and control smartly!
 
 🛰️ Sensor data processing with Kalman filter Filters and smooths noisy mobile sensor data, providing a more reliable position estimate of the telescope's direction. 
 
-✨ Star calibration and correction Through one-star or multi-point teaching, the system can correct sensor errors – ensuring even more precise targeting. 
+✨ Star calibration and correction Through one-star teaching, the system can correct sensor errors – ensuring even more precise targeting. 
 
 🌐 Client-server connection Phone data is sent to the PC via Wi-Fi, where the system displays the current direction, suggests movements, and allows orientation using a virtual sky. 
 
@@ -43,7 +43,7 @@ Kifejezetten az alt-azimutális mechanikai rendszerekhez tervezve, így könnyen
 A rendszer kiszűri és kisimítja a mobiltelefon zajos szenzoradatait, megbízhatóbb iránymeghatározást biztosítva a távcső számára.
 
 ✨ Csillagkalibráció és korrekció
-Egycsillagos vagy többpontos tanítással a rendszer képes korrigálni a szenzorhibákat – így még pontosabb célzást tesz lehetővé.
+Egycsillagos tanítással a rendszer képes korrigálni a szenzorhibákat – így még pontosabb célzást tesz lehetővé.
 
 🌐 Kliens-szerver kapcsolat
 A telefon adatai Wi-Fi-n keresztül jutnak el a számítógéphez, ahol a rendszer megjeleníti az aktuális irányt, mozgásokat javasol, és egy virtuális égbolton segíti a tájékozódást.
